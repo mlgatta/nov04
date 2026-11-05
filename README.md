@@ -1,1 +1,1 @@
-# Per aprire il file scaricato, associa il file HTML al tuo browser
+# Per aprire il file scaricato, associa i file HTML al tuo browser
